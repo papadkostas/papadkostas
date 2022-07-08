@@ -2,7 +2,6 @@
 ### Hi there 👋
 I'm Konstantinos, I'm an Electronics Engineer focused on Embedded Systems Development
 
-- 🔭 I’m working on my own projects
 - 🌱 I’m learning Zephyr RTOS
 - 👯 I’m looking to collaborate on Zephyr Applications
 
